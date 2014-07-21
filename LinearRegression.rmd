@@ -1,0 +1,3 @@
+## How to do linear regressions
+
+# 1. plot data and look at linear model. 
